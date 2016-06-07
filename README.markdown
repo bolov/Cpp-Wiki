@@ -4,11 +4,13 @@ This is an effort to help people learn and practice C++.
 
 ## Content
 
-### [C++ Wiki](Wiki.markdown)
+- ### [C++ Wiki](Wiki.markdown)
 
-### [Exercises](Exercises.markdown)
+- ### [Exercises](Exercises.markdown)
 
-### [Solutions](Solutions.markdown)
+- ### [Solutions](Solutions.markdown)
+
+- ### [Resources](Resources.markdown)
 
 ## Background and Scope
 
