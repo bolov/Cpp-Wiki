@@ -12,6 +12,13 @@
 
 - [Stack Overflow](http://stackoverflow.com/)
 
+### Online compilers
+
+- https://ideone.com/
+- http://cpp.sh/
+- http://www.tutorialspoint.com/compile_cpp11_online.php
+ -http://codepad.org/
+
 ### Books
 
 - [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
