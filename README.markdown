@@ -2,11 +2,19 @@
 
 This is an effort to help people learn and practice C++.
 
+## Content
+
+### [C++ Wiki](Wiki.markdown)
+
+### [Exercises](Exercises.markdown)
+
+### [Solutions](Solutions.markdown)
+
 ## Background and Scope
 
 This is the result of several years of teaching experience. It is meant as both a learning tool and as a C++ reference.
 
-It follows a bottom-up approach. This allows for a better understanding of the language, staring with a solid foundation.
+It follows a bottom-up approach. This allows for a better understanding of the language, starting with a solid foundation.
 
 ## Bottom-up vs Top-down learning
 
